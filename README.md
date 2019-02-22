@@ -4,6 +4,3 @@ Projekti CourseHandler on yliopiston kurssin suorittamista varten tehty projekti
 
 Ohjelmassa voi luoda ja hakea kursseja. Tietokanta sisältää valmiiksi jo pari kurssia. Kurssien luominen ei ole toteutettu laajasti, koska pyrein tekemään lähinnä projektin toiminnallisuuden oikein, enkä tekemään monipuolista kurssien luontia.
 
-
-Ominaisuudet: /n
--Sivujen skaalautuvuus
